@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # short-tales
+
+This project build on react v18, rails 7 and ruby 2.7. This web based application, get uses wide range of short tale.
