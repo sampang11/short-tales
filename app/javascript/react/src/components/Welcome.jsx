@@ -9,8 +9,8 @@ const Welcome = () => {
       <div className="row">
         <div className="col-md-12 d-flex justify-content-center align-items-center">
           <div className="content">
-            <h1>Mr. WiseMan's Tales</h1>
-            <p style={{ textAlign: "right" }}>- Stories that teaches you to be wise...</p>
+            {/* <h1>Mr. WiseMan's Tales</h1>
+            <p style={{ textAlign: "right" }}>- Stories that teaches you to be wise...</p> */}
             <TaleList />
           </div>
         </div>

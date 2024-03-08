@@ -68,3 +68,7 @@ group :test do
 end
 
 gem 'cssbundling-rails'
+gem 'devise'
+gem 'devise-jwt'
+gem 'jsonapi-serializer'
+gem 'rack-cors'
